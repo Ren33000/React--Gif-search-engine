@@ -1,6 +1,9 @@
 # Workshop: Introduction to React 
 Build on the top of [Le Wagon React boilerplate](https://github.com/lewagon/react-boilerplate).
 
+![Banner](https://github.com/Ren33000/react-giphy/blob/master/Screen%20Shot%202021-12-09%20at%2010.50.52.png)
+
+
 ## Demo
 
 https://yannklein.github.io/react-workshop/
